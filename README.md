@@ -1,6 +1,6 @@
 👋 Hello, I'm Ikhdanul Widad Joban!
 
-I'm a freelance mobile app developer with a primary focus on Android and Flutter development. 
+I'm a Mobile App Developer with a primary focus on Android and Flutter Development. 
 > "Just an ordinary individual who has a deep passion for programming and everything related to technology."
 
 💡 Skill Development:
