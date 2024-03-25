@@ -19,7 +19,7 @@ I'm a Mobile App Developer with a primary focus on Android and Flutter Developme
 - Advancing skills in backend development using Express.js and Laravel
 - Perfecting Android applications with Kotlin
 
-🤝 I'm always open to collaboration and new projects. Let's discuss ideas and potential collaborations!
+🤝 I'm always open to collaboration and new projects. Let's discuss ideas and potential collaborations!!
 
 
 <p align='center'>
